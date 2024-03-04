@@ -1,0 +1,3 @@
+C:/Users/arnul/CLionProjects/DList/cmake-build-debug/CMakeFiles/DList.dir
+C:/Users/arnul/CLionProjects/DList/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arnul/CLionProjects/DList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
